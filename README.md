@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PriyaNaidu2003/DSA/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/PriyaNaidu2003/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/PriyaNaidu2003/DSA/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/PriyaNaidu2003/DSA/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
