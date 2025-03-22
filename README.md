@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PriyaNaidu2003/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PriyaNaidu2003/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PriyaNaidu2003/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/PriyaNaidu2003/DSA/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/PriyaNaidu2003/DSA/tree/master/0605-can-place-flowers) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PriyaNaidu2003/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
