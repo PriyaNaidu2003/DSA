@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/PriyaNaidu2003/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PriyaNaidu2003/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/PriyaNaidu2003/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PriyaNaidu2003/DSA/tree/master/0069-sqrtx) |
 ## String
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PriyaNaidu2003/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PriyaNaidu2003/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1542-consecutive-characters](https://github.com/PriyaNaidu2003/DSA/tree/master/1542-consecutive-characters) |
 ## Sliding Window
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PriyaNaidu2003/DSA/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
