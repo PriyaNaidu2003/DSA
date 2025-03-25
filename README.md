@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/PriyaNaidu2003/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PriyaNaidu2003/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyaNaidu2003/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/PriyaNaidu2003/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/PriyaNaidu2003/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PriyaNaidu2003/DSA/tree/master/0069-sqrtx) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/PriyaNaidu2003/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
 ## Simulation
 |  |
