@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PriyaNaidu2003/DSA/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/PriyaNaidu2003/DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/PriyaNaidu2003/DSA/tree/master/0605-can-place-flowers) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/PriyaNaidu2003/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
