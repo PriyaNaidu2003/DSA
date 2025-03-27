@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/PriyaNaidu2003/DSA/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [1894-merge-strings-alternately](https://github.com/PriyaNaidu2003/DSA/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1542-consecutive-characters](https://github.com/PriyaNaidu2003/DSA/tree/master/1542-consecutive-characters) |
+| [1894-merge-strings-alternately](https://github.com/PriyaNaidu2003/DSA/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
