@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/PriyaNaidu2003/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/PriyaNaidu2003/DSA/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/PriyaNaidu2003/DSA/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PriyaNaidu2003/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [1542-consecutive-characters](https://github.com/PriyaNaidu2003/DSA/tree/master/1542-consecutive-characters) |
 | [1894-merge-strings-alternately](https://github.com/PriyaNaidu2003/DSA/tree/master/1894-merge-strings-alternately) |
