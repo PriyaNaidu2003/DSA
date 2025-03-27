@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PriyaNaidu2003/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PriyaNaidu2003/DSA/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/PriyaNaidu2003/DSA/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PriyaNaidu2003/DSA/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/PriyaNaidu2003/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/PriyaNaidu2003/DSA/tree/master/0392-is-subsequence) |
 | [1542-consecutive-characters](https://github.com/PriyaNaidu2003/DSA/tree/master/1542-consecutive-characters) |
 | [1894-merge-strings-alternately](https://github.com/PriyaNaidu2003/DSA/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PriyaNaidu2003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/PriyaNaidu2003/DSA/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/PriyaNaidu2003/DSA/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |
